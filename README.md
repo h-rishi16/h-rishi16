@@ -13,16 +13,16 @@
 
 ---
 
-## 🎯 About Me
+## About Me
 
-- 🎓 **Education:** Bachelor of Computer Engineering (2022–2026), Savitribai Phule Pune University
-- 🚀 **Focus Areas:** Orbital Mechanics & Space Situational Awareness (SSA), Quantitative Financial Risk Platforms, High-Throughput Microservices
-- 📦 **Open Source:** Author and maintainer of [`oure`](https://pypi.org/project/oure/) on PyPI, an orbital uncertainty and collision prediction engine.
-- 🔬 **Interests:** Distributed systems, scientific Python & Cython extensions, Monte Carlo simulation, and explainable AI (XAI).
+- **Education:** Bachelor of Computer Engineering (2022–2026), Savitribai Phule Pune University
+- **Focus Areas:** Orbital Mechanics & Space Situational Awareness (SSA), Quantitative Financial Risk Platforms, High-Throughput Microservices
+- **Open Source:** Author and maintainer of [`oure`](https://pypi.org/project/oure/) on PyPI, an orbital uncertainty and collision prediction engine.
+- **Interests:** Distributed systems, scientific Python & Cython extensions, Monte Carlo simulation, and explainable AI (XAI).
 
 ---
 
-## 🛠️ Tech Stack & Skills
+## Tech Stack & Skills
 
 | Domain | Technologies & Frameworks |
 | :--- | :--- |
@@ -34,7 +34,7 @@
 
 ---
 
-## 🌟 Flagship Systems
+## Flagship Systems
 
 ### 1. [OURE — Orbital Uncertainty & Risk Engine](https://github.com/h-rishi16/OURE)
 > *Enterprise-grade Space Situational Awareness (SSA) platform for satellite collision prediction and maneuver optimization.*
@@ -54,7 +54,7 @@
 
 ---
 
-## 📬 Connect
+## Connect
 
 - **Email:** [hrishirjoshi16324@gmail.com](mailto:hrishirjoshi16324@gmail.com)
 - **LinkedIn:** [linkedin.com/in/hrishikesh-joshi-93607b23a](https://www.linkedin.com/in/hrishikesh-joshi-93607b23a)
