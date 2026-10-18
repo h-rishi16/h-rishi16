@@ -7,7 +7,7 @@
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail)](mailto:hrishirjoshi16324@gmail.com)
 [![PyPI](https://img.shields.io/badge/PyPI-Published_Package-blue?style=flat-square&logo=pypi)](https://pypi.org/project/oure/)
 
-*Final-year Computer Engineering undergraduate specializing in high-performance scientific computing, quantitative risk modeling, and applied machine learning.*
+*Computer Engineering undergraduate specializing in high-performance scientific computing, quantitative risk modeling, and applied machine learning.*
 
 </div>
 
